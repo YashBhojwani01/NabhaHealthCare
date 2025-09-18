@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" role="img" aria-label="Telemedicine illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8eef7"/>
+      <stop offset="100%" stop-color="#d7e0ec"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6ea8fe"/>
+      <stop offset="100%" stop-color="#4476f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" rx="28" fill="url(#bg)"/>
+  <g transform="translate(820,140)">
+    <circle cx="160" cy="160" r="120" fill="#90a4b8"/>
+    <rect x="40" y="360" width="240" height="130" rx="65" fill="#90a4b8"/>
+  </g>
+  <g transform="translate(140,160)">
+    <rect x="0" y="0" width="420" height="280" rx="20" fill="#ffffff" stroke="#e3e8f0"/>
+    <rect x="24" y="24" width="220" height="20" rx="10" fill="#1e40af" opacity=".1"/>
+    <rect x="24" y="60" width="360" height="12" rx="6" fill="#1e40af" opacity=".12"/>
+    <rect x="24" y="84" width="300" height="12" rx="6" fill="#1e40af" opacity=".12"/>
+    <g transform="translate(24,120)">
+      <rect x="0" y="0" width="90" height="42" rx="8" fill="#1e3a8a"/>
+      <rect x="106" y="0" width="140" height="42" rx="8" fill="#fff" stroke="#cdd6e1"/>
+    </g>
+    <g transform="translate(24,182)">
+      <rect x="0" y="0" width="120" height="16" rx="8" fill="#1e40af" opacity=".12"/>
+      <rect x="140" y="0" width="120" height="16" rx="8" fill="#1e40af" opacity=".12"/>
+      <rect x="280" y="0" width="100" height="16" rx="8" fill="#1e40af" opacity=".12"/>
+    </g>
+  </g>
+  <g transform="translate(560,420)">
+    <rect x="0" y="0" width="80" height="28" rx="14" fill="#111827" opacity=".07"/>
+    <rect x="100" y="0" width="120" height="28" rx="14" fill="#111827" opacity=".07"/>
+    <rect x="240" y="0" width="100" height="28" rx="14" fill="#111827" opacity=".07"/>
+  </g>
+  <g transform="translate(980,520)">
+    <rect x="-120" y="-20" width="220" height="40" rx="20" fill="url(#pill)"/>
+  </g>
+</svg>
+
+
